@@ -4,7 +4,7 @@ description: Manage State without create Widgets on the tree,
  then the repository notify the Widget do rebuild when data changes,
  repositories can be shared easily across widgets.
 version: 1.0.0
-homepage: https://github.com/petrusje/staterepository
+homepage: https://github.com/petrusje/state_repository
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
